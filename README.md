@@ -1,1 +1,1 @@
-# CJ-production-prediction
+# CJ 미래기술 챌린지 (상품/물량 수요 예측)
