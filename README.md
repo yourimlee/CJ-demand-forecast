@@ -3,7 +3,7 @@
 ## participants
 이유림, 김연재, 윤수진, 석민정
 
-## Directory structure
+## Directory Structure
 <pre>
 <code>
 ├── Data
@@ -14,7 +14,6 @@
 │   ├── modeling_cnee_addr.ipynb
 │   ├── modeling_item_cd.ipynb
 │   ├── modeling_shpr_cd.ipynb
-│   └── modeling_shpr_cd_max.ipynb
 ├── Preprocessing
 │   ├── data
 │   ├── model
