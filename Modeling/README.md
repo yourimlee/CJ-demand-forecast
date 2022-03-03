@@ -74,3 +74,11 @@
 	<img width="667" alt="스크린샷 2022-03-03 오후 4 06 37" src="https://user-images.githubusercontent.com/67430267/156513995-e6a24da9-5c33-4943-bc90-f16c8f772d0b.png">
 
 	- 위에서 설명한 바와 같이 단일 모델에서 성능 평가를 통해 MAE 값이 작은 세 개의 모델로 학습 모델을 생성하였다.
+
+## Result
+
+<img width="634" alt="KakaoTalk_Photo_2022-03-03-23-00-37" src="https://user-images.githubusercontent.com/67430267/156579621-ccf4d0d5-115e-4d41-832e-321dda194170.png">
+
+- 위 그림은 학습된 모델의 예측값 일부만을 나타내었다
+- 좌측은 **고객사별**, 우측은 **지역별**로의 모델링 결과이다
+- 주황색이 **실제값**, 초록색이 **예측값**을 나타낸다
