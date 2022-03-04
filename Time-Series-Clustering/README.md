@@ -1,5 +1,3 @@
-# Clustering
-
 # Time Series Clustering
 __물품별 수요 주기 확인__
 - 서로 다른 시계열을 유사한 그룹으로 클러스터링하여, 수요 주기가 비슷한 물품을 군집화
